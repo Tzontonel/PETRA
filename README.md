@@ -1,6 +1,6 @@
 # PETRA – a gesture-controlled experience of 3D Rocks & Minerals
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release_%E2%86%93-1f425f?style=for-the-badge)](https://github.com/Tzontonel/PETRA/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release_%E2%86%93-1f425f?style=for-the-badge)](https://github.com/aapopei/PETRA/releases/latest)
 
 **PETRA** is an open-source, gesture-controlled system for exploring 3D rocks and minerals. Developed in TouchDesigner, it uses a standard webcam and the MediaPipe framework to translate natural hand movements into real-time manipulation of digital specimens.
 
@@ -28,7 +28,7 @@ This project was developed as part of the scientific article:
 ### Installation
 
 #### **Recommended Method: Download the Latest Release**
-1.  Go to the [**Releases Page**](https://github.com/Tzontonel/PETRA/releases) of this repository.
+1.  Go to the [**Releases Page**](https://github.com/aapopei/PETRA/releases) of this repository.
 2.  Under the latest release (e.g., `v2025.6`), download the `PETRA-vYYYY.X.zip` file from the "Assets" section.
 3.  Unzip the folder, and you're ready to go.
 
@@ -36,7 +36,7 @@ This project was developed as part of the scientific article:
 
 If you want the very latest development code and are comfortable using Git, you can clone the repository:
 ```
-git clone https://github.com/Tzontonel/PETRA.git
+git clone https://github.com/aapopei/PETRA.git
 ```
 
 ### **Running the Application**
@@ -63,7 +63,7 @@ This project is designed to be easily understood and modified. The network is or
 
 ## 🐛 Bug Reports & Feedback
 
-If you find a bug or have a suggestion for improvement, please **[open an issue](https://github.com/Tzontonel/PETRA/issues)** on this repository.
+If you find a bug or have a suggestion for improvement, please **[open an issue](https://github.com/aapopei/PETRA/issues)** on this repository.
 
 ---
 
