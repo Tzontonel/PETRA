@@ -27,17 +27,10 @@ This project was developed as part of the scientific article:
 
 ### Installation
 
-#### **Recommended Method: Download the Latest Release**
+#### **Download the Latest Release**
 1.  Go to the [**Releases Page**](https://github.com/aapopei/PETRA/releases) of this repository.
 2.  Under the latest release (e.g., `v2025.6`), download the `PETRA-vYYYY.X.zip` file from the "Assets" section.
 3.  Unzip the folder, and you're ready to go.
-
-#### **Alternative (For Developers): Clone the Repository**
-
-If you want the very latest development code and are comfortable using Git, you can clone the repository:
-```
-git clone https://github.com/aapopei/PETRA.git
-```
 
 ### **Running the Application**
 
