@@ -22,7 +22,7 @@ This project was developed as part of the scientific article:
 ### Prerequisites
 
 * A Windows or macOS computer.
-* A recent version of **TouchDesigner** (the free non-commercial version is sufficient).
+* **TouchDesigner Build 2023.12230** or newer (https://derivative.ca/). This project was developed and tested on this version. The free non-commercial version is sufficient.
 * A standard HD or FullHD webcam.
 
 ### Installation
