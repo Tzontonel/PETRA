@@ -5,7 +5,7 @@
 **PETRA** is an open-source, gesture-controlled system for exploring 3D rocks and minerals. Developed in TouchDesigner, it uses a standard webcam and the MediaPipe framework to translate natural hand movements into real-time manipulation of digital specimens.
 
 This project was developed as part of the scientific article:
-> *Apopei, A. I. (2025). Accessible interface for Museum Geological Exhibitions: PETRA - a gesture-controlled experience of 3D Rocks & Minerals. [submitted to Minerals (ISSN: 2075-163X)].*
+> *Apopei, A. I. (2025). Accessible Interface for Museum Geological Exhibitions: PETRA—A Gesture-Controlled Experience of Three-Dimensional Rocks and Minerals. Minerals, 15(8), 775. https://doi.org/10.3390/min15080775*
 
 [![Watch the PETRA Demo Video](https://img.youtube.com/vi/jeJQMB4h6UE/hqdefault.jpg)](https://www.youtube.com/watch?v=jeJQMB4h6UE)
 
@@ -81,7 +81,7 @@ You can find the full license text in the `LICENSE` file.
 
 If you use this project or its assets in your own research, please cite the paper:
 
-> *Apopei, A. I. (2025). Accessible interface for Museum Geological Exhibitions: PETRA - a gesture-controlled experience of 3D Rocks & Minerals. [submitted to Minerals (ISSN: 2075-163X)].*
+> *Apopei, A. I. (2025). Accessible Interface for Museum Geological Exhibitions: PETRA—A Gesture-Controlled Experience of Three-Dimensional Rocks and Minerals. Minerals, 15(8), 775. https://doi.org/10.3390/min15080775*
 
 ## 🙏 Acknowledgments
 
